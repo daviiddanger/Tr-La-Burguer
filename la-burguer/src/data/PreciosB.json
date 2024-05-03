@@ -1,0 +1,44 @@
+[
+  {
+    "imageUrl": "https://th.bing.com/th/id/OIP.-W9KKQ0gweyPDoCf_l3EhgHaJ4?rs=1&pid=ImgDetMain",
+    "name": "CLASICA",
+    "price": "$80 Mxn",
+    "details": "Detalles",
+    "rating": 4.5
+  },
+  {
+    "imageUrl": "https://www.amoni.mx/wp-content/uploads/2022/03/micheladas-2.jpg",
+    "name": "CUBANA",
+    "price": "$85 Mxn",
+    "details": "Detalles",
+    "rating": 4.5
+  },
+  {
+    "imageUrl": "https://www.mango.org/wp-content/uploads/2018/06/Michelada-Celebrate-the-Summer-of-Mango-1.jpg",
+    "name": "MANGO CHELA",
+    "price": "$85 Mxn",
+    "details": "Detalles",
+    "rating": 4
+  },
+  {
+    "imageUrl": "https://th.bing.com/th/id/OIP.DRyv1UmootKi0lIycRYw0AHaEw?rs=1&pid=ImgDetMain",
+    "name": "BOSTCHELA",
+    "price": "$85 Mxn",
+    "details": "Detalles",
+    "rating": 5
+  },
+  {
+    "imageUrl": "https://www.debate.com.mx/__export/1686873113957/sites/debate/img/2023/06/14/azulitos.jpg_242310155.jpg",
+    "name": "AZULITOS",
+    "price": "$65 Mxn",
+    "details": "Detalles",
+    "rating": 5
+  },
+  {
+    "imageUrl": "https://www.thebellevieblog.com/wp-content/uploads/2013/01/MG_0654.jpg",
+    "name": "OTROS",
+    "price": "$35 Mxn",
+    "details": "Detalles",
+    "rating": 5
+  }
+]

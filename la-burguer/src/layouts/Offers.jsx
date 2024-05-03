@@ -3,7 +3,7 @@ import React from 'react'
 const offers = (props) => {
   return (
      <div>
-        <button className='px-2 py-1 border-2 w-32 text-lg bg-white text-[#FFB800] hover:bg-green-500 hover:text-white transition-all rounded-sm'>
+        <button className='px-5 py-4 border-2  text-lg bg-green-500 text-[#fff] hover:bg-red-500 hover:text-white transition-all rounded-sm'>
             {props.title}
         </button>
     </div>
@@ -11,4 +11,4 @@ const offers = (props) => {
   )
 }
 
-export default offers
+export default offers;

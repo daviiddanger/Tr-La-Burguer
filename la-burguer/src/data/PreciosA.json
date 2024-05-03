@@ -1,0 +1,37 @@
+[
+  {
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0003/1916/0381/files/alitas-recetas-de-asado-asar-a-la-parrilla.jpg",
+    "name": "CLASICA",
+    "price": "$65 Mxn",
+    "details": "Detalles",
+    "rating": 4.5
+  },
+  {
+    "imageUrl": "https://th.bing.com/th/id/R.0b91b660063d60c343633eb51aac943d?rik=M4adzapYkz3ZXg&riu=http%3a%2f%2fhealthynestnutrition.com%2fwp-content%2fuploads%2f2016%2f10%2fpaleo-chicken-wings.jpg&ehk=ZeWY%2bEDQ3XXURGHTasch9%2f44FjAQJQfLvnogVMYzf%2fw%3d&risl=&pid=ImgRaw&r=0",
+    "name": "BUFALO",
+    "price": "$65 Mxn",
+    "details": "Detalles",
+    "rating": 4.5
+  },
+  {
+    "imageUrl": "https://th.bing.com/th/id/OIP.3nB4PIOME9RsBFPhZmsvtwHaEK?rs=1&pid=ImgDetMain",
+    "name": "MANGO HAB.",
+    "price": "$65 Mxn",
+    "details": "Detalles",
+    "rating": 4
+  },
+  {
+    "imageUrl": "https://enjoymo.net/wp-content/uploads/2022/02/cropped-IMG_20220221_193835.jpg",
+    "name": "FLAMING HOT",
+    "price": "$65 Mxn",
+    "details": "Detalles",
+    "rating": 5
+  },
+  {
+    "imageUrl": "https://www.larutadelagarnacha.mx/wp-content/uploads/2021/06/salsa-002.jpeg",
+    "name": "TAMARINDO",
+    "price": "$65 Mxn",
+    "details": "Detalles",
+    "rating": 5
+  }
+]

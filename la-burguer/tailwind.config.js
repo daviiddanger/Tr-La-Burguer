@@ -8,6 +8,7 @@ export default {
     extend: {
       colors: {
         brightColor: "#FF0F00",
+        stars: "#FFB800",
         backgroundColor: "#b7bca9",
         lightText: "#959595",
       },

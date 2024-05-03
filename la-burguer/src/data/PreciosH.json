@@ -1,0 +1,38 @@
+[
+  {
+    "imageUrl": "https://th.bing.com/th/id/OIP.xpHtN8nOMEDD69KJLoiHDAHaHa?rs=1&pid=ImgDetMain",
+    "imagePapas": "https://th.bing.com/th/id/OIP.xpHtN8nOMEDD69KJLoiHDAHaHa?rs=1&pid=ImgDetMain",
+    "name": "SENCILLA",
+    "price": "$55 Mxn",
+    "ConPapas":"65 Mxn",
+    "details": "Detalles",
+    "rating": 4.5
+  },
+  {
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0469/8167/7215/products/Artisan_345x345@2x.jpg?v=1613287269",
+    "imagePapas": "https://th.bing.com/th/id/OIP.xpHtN8nOMEDD69KJLoiHDAHaHa?rs=1&pid=ImgDetMain",
+    "name": "HAWAIANA",
+    "price": "$65 Mxn",
+     "ConPapas":"65 Mxn",
+    "details": "Detalles",
+    "rating": 4.5
+  },
+  {
+    "imageUrl": "https://th.bing.com/th/id/OIP.w8USNdjF8EOiqZzVbQQbywHaG_?w=1000&h=945&rs=1&pid=ImgDetMain",
+    "imagePapas": "https://th.bing.com/th/id/OIP.xpHtN8nOMEDD69KJLoiHDAHaHa?rs=1&pid=ImgDetMain",
+    "name": "SUPREMA",
+    "price": "$65 Mxn",
+     "ConPapas":"65 Mxn",
+    "details": "Detalles",
+    "rating": 4
+  },
+  {
+    "imageUrl": "https://th.bing.com/th/id/OIP.DrRg0IxQM6FJP0P1y7mACgHaE7?rs=1&pid=ImgDetMain",
+    "imagePapas": "https://th.bing.com/th/id/OIP.xpHtN8nOMEDD69KJLoiHDAHaHa?rs=1&pid=ImgDetMain",
+    "name": "DOBLE",
+    "price": "$65 Mxn",
+     "ConPapas":"65 Mxn",
+    "details": "Detalles",
+    "rating": 5
+  }
+]

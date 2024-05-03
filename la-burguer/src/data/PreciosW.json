@@ -1,0 +1,44 @@
+[
+  {
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0401/9421/2000/products/patatas-onduladas.jpg?v=1593026614",
+    "name": "PAPAS",
+    "price": "$35 Mxn",
+    "details": "Detalles",
+    "rating": 4.5
+  },
+  {
+    "imageUrl": "https://s3-media2.fl.yelpcdn.com/bphoto/8OpilxpL12eNru4KCq61dw/o.jpg",
+    "name": "SALCHIPULPOS",
+    "price": "$40 Mxn",
+    "details": "Detalles",
+    "rating": 4.5
+  },
+  {
+    "imageUrl": "https://i.pinimg.com/originals/02/4c/8a/024c8accd0bcfde4898b4a98d1789e11.jpg",
+    "name": "PLATANOS",
+    "price": "$35 Mxn",
+    "details": "Detalles",
+    "rating": 4
+  },
+  {
+    "imageUrl": "https://mui.today/__export/1598467682786/sites/mui/img/2020/08/26/receta-banderilla.jpg_1522886110.jpg",
+    "name": "BANDERILLAS",
+    "price": "$35 Mxn",
+    "details": "Detalles",
+    "rating": 5
+  },
+  {
+    "imageUrl": "https://img-global.cpcdn.com/recipes/18aa41b0550d6ad5/1200x630cq70/photo.jpg",
+    "name": "HOT-DOGS(3)S",
+    "price": "$45 Mxn",
+    "details": "Detalles",
+    "rating": 5
+  },
+  {
+    "imageUrl": "https://www.gastrolabweb.com/u/fotografias/m/2021/4/23/f1280x720-12179_143854_5050.jpeg",
+    "name": "HOT-DOGS(3)E",
+    "price": "$55 Mxn",
+    "details": "Detalles",
+    "rating": 5
+  }
+]
